@@ -1,0 +1,3 @@
+GET BACK DELETED FILE : GIT CHECKOUT -- filename 
+CREATE NEW BRANCH :  GIT CHECKOUT -b branchname
+CHANGE BRANCH PATH : git chekout branchname
