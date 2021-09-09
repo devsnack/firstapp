@@ -1,3 +1,7 @@
 GET BACK DELETED FILE : GIT CHECKOUT -- filename 
 CREATE NEW BRANCH :  GIT CHECKOUT -b branchname
 CHANGE BRANCH PATH : git chekout branchname
+MERGE BRANCHES : git merge branchname
+see where origine and HEAD version are  : git lg
+see  diff  between file modified : git diff filename
+
